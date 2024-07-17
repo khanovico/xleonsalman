@@ -58,15 +58,5 @@
 </table>
 </div>
 
-<details open> 
-  <summary>💻 My Stack </summary>
-  <br/>
-  <div style="display:flex;flex-direction:row;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180px" align="center" alt="Khanovict's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xleonsalman&langs_count=8&layout=compact&theme=default&hide_border=false&border_color=30363D&bg_color=0D1117&text_bold=false&title_color=D48E24&icon_color=D48E24&hide=Jupyter%20Notebook"/>
-    </a>
-  </div>
-  <br/>
-</details>
 
 </p>
